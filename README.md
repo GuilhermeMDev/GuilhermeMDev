@@ -32,4 +32,4 @@
 
 [eCommerce](https://ecommerce.devi.tools) - Projeto que estou trabalhando atualmente, buscando aprimorar meus conhecimentos nas tecnologias envolvidas.<br>
 
-[AppMergulho](appmergulho.vercel.app) - Ferramenta visa compartilhar informação confiável, didática e accessível a comunidade de Mergulho Profissional.
+[AppMergulho](https://appmergulho.vercel.app) - Ferramenta visa compartilhar informação confiável, didática e accessível a comunidade de Mergulho Profissional.
