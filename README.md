@@ -8,9 +8,11 @@
 [![Contact](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ![GuiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMDev&show_icons=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemdev&layout=compact)]()
 
 ### Tecnologias que utilizo no dia-a-dia
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemdev&layout=compact)]()
+
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -28,6 +30,6 @@
 
 ### Projetos 
 
-[eCommerce - Em Desenvolvimento](https://ecommerce.devi.tools) - Projeto que estou trabalhando atualmente, buscando aprimorar meus conhecimentos nas tecnologias envolvidas.<br>
+[eCommerce](https://ecommerce.devi.tools) - Projeto que estou trabalhando atualmente, buscando aprimorar meus conhecimentos nas tecnologias envolvidas.<br>
 
 [AppMergulho](appmergulho.vercel.app) - Ferramenta visa compartilhar informação confiável, didática e accessível a comunidade de Mergulho Profissional.
