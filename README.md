@@ -30,6 +30,6 @@
 
 ### Projetos 
 
-[eCommerce](https://ecommerce.devi.tools) - Projeto que estou trabalhando atualmente, buscando aprimorar meus conhecimentos nas tecnologias envolvidas.<br>
+[eCommerce](https://ecommerce.devi.tools) - Projeto que estou envolvido atualmente, buscando aprimorar meus conhecimentos nas tecnologias envolvidas.<br>
 
-[AppMergulho](https://appmergulho.vercel.app) - Ferramenta visa compartilhar informação confiável, didática e accessível a comunidade de Mergulho Profissional.
+[AppMergulho](https://appmergulho.vercel.app) - Ferramenta que visa compartilhar informação confiável, didática e accessível á comunidade do Mergulho Profissional.
