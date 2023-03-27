@@ -28,8 +28,3 @@
 
 </div><br>
 
-### Projetos 
-
-[eCommerce](https://guicommerce.devi.tools) - Projeto que estou envolvido atualmente, buscando aprimorar meus conhecimentos nas tecnologias envolvidas.<br>
-
-[AppMergulho](https://appmergulho.vercel.app) - Ferramenta que visa compartilhar informação confiável, didática e accessível á comunidade do Mergulho Profissional.
